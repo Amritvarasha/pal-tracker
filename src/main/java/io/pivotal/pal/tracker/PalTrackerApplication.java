@@ -16,4 +16,4 @@ public class PalTrackerApplication {
     {
         return new InMemoryTimeEntryRepository();
     }
-}
+}   

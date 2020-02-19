@@ -9,7 +9,7 @@ public class TimeEntry {
     private long userId;
     private LocalDate date;
     private int hours;
-
+    
     public TimeEntry() {
 
     }
